@@ -12,7 +12,7 @@ A lightweight, cross-platform password manager built with Flutter, designed for 
 1. Clone the Repository:
 ```bash 
 git clone https://github.com/RevMax-creator/Password_manager.git
-cd basic-password-manager
+cd Password-manager
 ```
    2. Install Dependencies:  
 ```bash
